@@ -1,0 +1,74 @@
+[
+ {
+   "id": 5,
+   "student": "Liam Martinez",
+   "interviewer_id": 7,
+   "appointment_id": 12
+ },
+ {
+   "id": 6,
+   "student": "Lydia Miller-Jones",
+   "interviewer_id": 10,
+   "appointment_id": 14
+ },
+ {
+   "id": 7,
+   "student": "Maria Boucher",
+   "interviewer_id": 2,
+   "appointment_id": 16
+ },
+ {
+   "id": 8,
+   "student": "Michael Chan-Montoya",
+   "interviewer_id": 7,
+   "appointment_id": 19
+ },
+ {
+   "id": 9,
+   "student": "Richard Wong",
+   "interviewer_id": 7,
+   "appointment_id": 20
+ },
+ {
+   "id": 13,
+   "student": "Bingo Olia",
+   "interviewer_id": 5,
+   "appointment_id": 5
+ },
+ {
+   "id": 25,
+   "student": "Henry Livambul",
+   "interviewer_id": 4,
+   "appointment_id": 1
+ },
+ {
+   "id": 26,
+   "student": "Cynthia Bull",
+   "interviewer_id": 9,
+   "appointment_id": 6
+ },
+ {
+   "id": 10,
+   "student": "Yuko Smith",
+   "interviewer_id": 7,
+   "appointment_id": 25
+ },
+ {
+   "id": 36,
+   "student": "helo john milia",
+   "interviewer_id": 5,
+   "appointment_id": 23
+ },
+ {
+   "id": 42,
+   "student": "testing john",
+   "interviewer_id": 7,
+   "appointment_id": 9
+ },
+ {
+   "id": 46,
+   "student": "Santo Dominica",
+   "interviewer_id": 1,
+   "appointment_id": 3
+ }
+]
